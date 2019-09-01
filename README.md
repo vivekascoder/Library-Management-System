@@ -1,4 +1,7 @@
 # libman
-A Management App Written in tkinter and sqlite3 in python.
+A Management App .
 
-# you can contribute.
+# Requirements
+Tkinter
+sqlite3
+Python3
