@@ -5,7 +5,7 @@ from tkinter import ttk
 from tkinter import messagebox as msg
 import database
 import messages
-# Username: vivekascoder, Password: 9871496866
+# Username: vivekascoder, Password: XXXXXXXXXX
 # Username: admin, Username: spy123
 """
 ID
